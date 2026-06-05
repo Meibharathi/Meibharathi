@@ -1,16 +1,14 @@
-## Hi there 👋
+🚀 Software Development Engineer in Test (SDET) | Java Developer
 
-<!--
-**Meibharathi/Meibharathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Software Engineer with expertise in Java, Spring Boot, Selenium, API Testing, and Test Automation. Skilled in building scalable backend applications and developing robust automation frameworks to ensure software quality and reliability.
 
-Here are some ideas to get you started:
+💻 Core Skills:
+• Java 8, JDBC, Hibernate, JPA
+• Spring MVC, Spring Boot
+• Selenium WebDriver, Postman API Testing
+• Manual Testing, Agile & Scrum
+• Maven, Gradle, Git, GitHub, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Strong believer in "Quality First" development, combining coding excellence with automation expertise to deliver high-performance and defect-free applications.
+
+📚 Continuous learner, technology enthusiast, and passionate about solving real-world problems through clean code and efficient testing strategies.
